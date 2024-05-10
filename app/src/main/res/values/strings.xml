@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Laporan Penjualan</string>
+    <string name="list_kosong">Belum ada data</string>
+    <string name="x_diklik">%1$s diklik!</string>
+    <string name="tambah_barang">Tambah barang</string>
+    <string name="barang">Nama Barang</string>
+    <string name="jumlah_barang">Jumlah Terjual</string>
+    <string name="kembali">Kembali</string>
+    <string name="simpan">Simpan</string>
+    <string name="edit_barang">Ubah barang</string>
+    <string name="invalid">Nama barang dan jumlah barang tidak boleh kosong.</string>
+    <string name="lainnya">Opsi lainnya</string>
+    <string name="hapus">Hapus barang</string>
+    <string name="penjualan_barang">Barang: %1$s</string>
+    <string name="penjualan_jumlah">Jumlah Terjual: %1$s</string>
+    <string name="penjualan_tanggal">Tanggal: %1$s</string>
+</resources>
